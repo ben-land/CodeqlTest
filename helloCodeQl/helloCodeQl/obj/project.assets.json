@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
+      "projectUniqueName": "C:\\Users\\bliu\\Documents\\Work\\CodeqlTest\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
       "projectName": "helloCodeQl",
-      "projectPath": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
+      "projectPath": "C:\\Users\\bliu\\Documents\\Work\\CodeqlTest\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
       "packagesPath": "C:\\Users\\bliu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\obj\\",
+      "outputPath": "C:\\Users\\bliu\\Documents\\Work\\CodeqlTest\\helloCodeQl\\helloCodeQl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bliu\\AppData\\Roaming\\NuGet\\NuGet.Config",

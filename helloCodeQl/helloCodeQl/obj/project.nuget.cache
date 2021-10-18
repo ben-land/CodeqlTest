@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5dFZqha5gYFQfN4vRpEHNP5TuzNCjFZHqZyhXeFQFrSHcB0iKgeMgWLQ3Fa1TFYZphhSyRJBTjrofmBSxr5Ulw==",
+  "dgSpecHash": "C/HdhyWfWMmJp+V/DB38jEy7FEH0zkDOXLbbL62qvJD9t/eeOwFFPyJLTE5Uff79cxNwbediV7oC06NtGcctVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
+  "projectFilePath": "C:\\Users\\bliu\\Documents\\Work\\CodeqlTest\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bliu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\bliu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
