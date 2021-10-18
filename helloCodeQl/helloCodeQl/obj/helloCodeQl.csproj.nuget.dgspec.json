@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
+        "projectName": "helloCodeQl",
+        "projectPath": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\helloCodeQl.csproj",
+        "packagesPath": "C:\\Users\\bliu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bliu\\source\\repos\\helloCodeQl\\helloCodeQl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://fraedom.myget.org/F/ps/auth/a6c24994-0421-4351-81fc-780c175b294f/api/v2": {},
+          "https://fraedom.myget.org/F/test/auth/a6c24994-0421-4351-81fc-780c175b294f/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.exe
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.deps.json
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.runtimeconfig.json
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.runtimeconfig.dev.json
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.dll
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\bin\Debug\netcoreapp3.1\helloCodeQl.pdb
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.csproj.AssemblyReference.cache
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.AssemblyInfoInputs.cache
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.AssemblyInfo.cs
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.csproj.CoreCompileInputs.cache
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.dll
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.pdb
+C:\Users\bliu\source\repos\helloCodeQl\helloCodeQl\obj\Debug\netcoreapp3.1\helloCodeQl.genruntimeconfig.cache
